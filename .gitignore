@@ -1,0 +1,8 @@
+.DS_Store
+stacktrace.log
+target
+*.class
+.idea
+web-app/WEB-INF/classes
+*.orig
+/.settings/
